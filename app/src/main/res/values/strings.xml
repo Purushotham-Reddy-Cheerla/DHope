@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">D\'Hope</string>
+    <string name="log_in_key">IsLogged</string>
+    <string name="name_hint">Name</string>
+    <string name="contact_hint">Phone Number</string>
+    <string name="address_hint">Address</string>
+    <string name="splash_drawable">Splash Drawable</string>
+    <string name="userID">userID</string>
+    <string name="quantity_hint">Enter Quantity</string>
+    <string-array name="category_list">
+        <item>Blood</item>
+        <item>Food</item>
+        <item>Clothes</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1011464438233",
+    "firebase_url": "https://dhope-c784c.firebaseio.com",
+    "project_id": "dhope-c784c",
+    "storage_bucket": "dhope-c784c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011464438233:android:7d58cd1309b9319f",
+        "android_client_info": {
+          "package_name": "com.poras.passionate.dhope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011464438233-41t7q3bnh9pre8a00g3m2bqm0gp2nj9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsST2t46amA3N211BkSmha-dakwzjL6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
